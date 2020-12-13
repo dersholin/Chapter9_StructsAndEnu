@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter9_StructsAndEnu", "Chapter9_StructsAndEnu\Chapter9_StructsAndEnu.csproj", "{44AEA20B-F35D-468E-A086-15EEA4C815B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AEA20B-F35D-468E-A086-15EEA4C815B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AEA20B-F35D-468E-A086-15EEA4C815B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AEA20B-F35D-468E-A086-15EEA4C815B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AEA20B-F35D-468E-A086-15EEA4C815B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66857A6-FD90-44B3-8B44-B3400AD252E9}
+	EndGlobalSection
+EndGlobal
